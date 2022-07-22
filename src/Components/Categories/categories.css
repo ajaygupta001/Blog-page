@@ -1,0 +1,30 @@
+.categories{
+    display: inline-block;
+    width: 370px;
+    height: 400px;
+    position: relative;
+    bottom: 1600px;
+    left: 1130px;
+    text-align: left;
+    
+    
+}
+
+h1{
+    font-size: 2rem;
+    line-height: 2rem;
+    color: beige;
+    margin-bottom: 15px;
+    margin-right: 30px;
+    color: blueviolet;
+}
+
+
+.categories-items{
+    margin: 13px 15px;
+    font-size: 20px;
+    color: blueviolet;
+
+}
+
+
